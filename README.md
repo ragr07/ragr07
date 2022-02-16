@@ -1,5 +1,5 @@
 ### Hi there! 👋
-![](https://th.bing.com/th/id/R.dae65a47fcc727f71c0b3ca35c9b1745?rik=N2kslzNyZx5M6w&pid=ImgRaw&r=0)
+![](https://mir-s3-cdn-cf.behance.net/projects/max_808/6dc5de68097599.Y3JvcCwzNzI5LDI5MTcsNjM2LDA.jpg)
 
 Ich bin Rafael, ein Hobbywebentwickler mit 6 Monaten Erfahrung. Ich arbeite gerade an einer Website. Ich programmiere auch noch ein bisschen mit [Python](https://www.python.org/). Sonst habe ich noch einen kleinen Bot mit [JavaScript](https://www.javascript.com/) erstellt.
 
