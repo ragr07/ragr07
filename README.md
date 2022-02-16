@@ -4,7 +4,7 @@
 Ich bin Rafael, ein ***Hobbywebentwickler*** mit 6 Monaten Erfahrung. Ich arbeite gerade an einer Website. Ich programmiere auch noch ein bisschen mit [Python](https://www.python.org/). Sonst habe ich noch einen kleinen Bot mit [JavaScript](https://www.javascript.com/) erstellt.
 
 #### TECH-STUFF
-HTML / CSS / JavaScript / Python / GitHub / VS Code / Visual Studio / PyCharm Community / Git / WebStorm / GitHub Desktop
+Windows / Android / HTML / CSS / JavaScript / Python / GitHub / VS Code / Visual Studio / PyCharm Community / Git / WebStorm / GitHub Desktop
 
 
 
