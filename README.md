@@ -13,6 +13,6 @@ Windows / Android / HTML / CSS / JavaScript / Python / GitHub / VS Code / Visual
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/ArcticPenguin07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](https://arcticpenguin07.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='25'>](https://discord.gg/SEUx4An4)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ArcticPenguin07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://arcticpenguin07.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](https://discord.gg/SEUx4An4)  
 
 ![Profile views](https://gpvc.arturio.dev/ArcticPenguin07)  
