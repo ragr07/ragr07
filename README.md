@@ -20,7 +20,7 @@ Ich bin Rafael, ein ***Hobbywebentwickler*** mit 6 Monaten Erfahrung. Ich arbeit
 
 ### Connect with me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ragr07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://arcticpenguin07.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](https://discord.gg/SEUx4An4)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ragr07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://ragr07.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](https://discord.gg/DgwW5gpc)  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragr07&show_icons=true&locale=en&layout=compact" alt="ragr07" /></p>
