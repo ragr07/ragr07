@@ -1,12 +1,11 @@
 ![Profile views](https://gpvc.arturio.dev/ragr07)  
 
 
-## Hi there! 👋
+## Hi there!👋
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333BBF7&lines=Python+bot+developer+%7C+Web+developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F773A3&lines=I'm+Rafael+Greif;Python+bot+developer+%7C+Web+developer)](https://git.io/typing-svg)
 
 
 
@@ -19,7 +18,7 @@ I'm Rafael, a ***hobby web developer*** and ***bot developer*** with 6 months of
 - You can reach me under **ragr#1502** on [Discord](https://github.com/discord).
 
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
