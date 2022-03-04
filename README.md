@@ -3,6 +3,13 @@
 
 ## Hi there! 👋
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333BBF7&lines=Python+bot+developer+%7C+Web+developer)](https://git.io/typing-svg)
+
+
+
+
 I'm Rafael, a ***hobby web developer*** and ***bot developer*** with 6 months of experience. I'm currently working on a website. I also program a bit with [Python](https://www.python.org/) for a bot. Otherwise I still dealt with [JavaScript](https://www.javascript.com/).
 
 - My bot for discord [Python_Bot](https://github.com/ragr07/Python_Bot).
