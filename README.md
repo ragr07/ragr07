@@ -3,7 +3,7 @@
 
 ## Hi there! 👋
 
-Ich bin Rafael, ein ***Hobbywebentwickler*** mit 6 Monaten Erfahrung. Ich arbeite gerade an einer Website. Ich programmiere auch noch ein bisschen mit [Python](https://www.python.org/). Sonst habe ich mich noch mit [JavaScript](https://www.javascript.com/) auseinander gesetzt.
+I'm Rafael, a ***hobby web developer*** with 6 months of experience. I'm currently working on a website. I also program a bit with [Python](https://www.python.org/). Otherwise I still dealt with [JavaScript](https://www.javascript.com/).
 
 - My bot for discord [Python_Bot](https://github.com/ragr07/Python_Bot).
 
