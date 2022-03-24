@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F773A3&lines=Python+Bot+Developer!;Web+Developer!;Open+Source+Enthusiast!)](https://git.io/typing-svg)
 
-![Discord](https://discord.c99.nl/widget/theme-2/809012458785996821.png)
+![Discord](https://discord.c99.nl/widget/theme-2/933408863917588510.png)
 
 
 ## About me:rocket:
