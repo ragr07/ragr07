@@ -22,7 +22,7 @@
 
 - My website [https://ragr07.github.io](https://ragr07.github.io).
 
-- You can reach me under **ragr#1502** on [Discord](https://github.com/discord).
+- You can reach me under **ragr#0001** on [Discord](https://github.com/discord).
 
 
 ## :hammer_and_wrench:Languages and Tools
