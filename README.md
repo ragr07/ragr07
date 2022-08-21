@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Profile views](https://gpvc.arturio.dev/ragr07)  
 
 
@@ -8,8 +10,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F773A3&lines=Python+Bot+Developer!;Web+Developer!;Open+Source+Enthusiast!)](https://git.io/typing-svg)
 
-![Discord](https://discord.c99.nl/widget/theme-3/809012458785996821.png)
 
+</div>
 
 ## About me:rocket:
 
