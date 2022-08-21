@@ -41,7 +41,7 @@
 
 ## :link:Connect with me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ragr07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://ragr07.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](https://discord.gg/DgwW5gpc)  
+![ragr#0001](https://img.shields.io/badge/ragr%230001-blue?style=for-the-badge&logo=discord) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ragr07) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Ragr078) [![My website](https://img.shields.io/badge/My_website-yellowgreen?style=for-the-badge)](https://rafaelgr.me)
 
 
 ## 📈Stats
