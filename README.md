@@ -41,7 +41,7 @@
 
 ## :link:Connect with me
 
-![ragr#0001](https://img.shields.io/badge/ragr%230001-blue?style=for-the-badge&logo=discord) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ragr07)  [![My website](https://img.shields.io/badge/My_website-yellowgreen?style=for-the-badge)](https://rafaelgr.me)
+![ragr#0001](https://img.shields.io/badge/ragr%230001-blue?style=for-the-badge&logo=discord) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ragr07)  [![My website](https://img.shields.io/badge/My_website-yellowgreen?style=for-the-badge)](https://rafaelgr.me) <a href="https://twitch.com/ragr07"><img src="https://img.shields.io/badge/LiveStream-blueviolet?style=for-the-badge&logo=twitch&logoColor=purple" alt="LiveStream"></a>
 
 
 ## 📈Stats
