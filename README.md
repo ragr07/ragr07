@@ -11,6 +11,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F773A3&lines=Python+Bot+Developer!;Web+Developer!;Open+Source+Enthusiast!)](https://git.io/typing-svg)
 
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/809012458785996821)](https://discord.com/users/809012458785996821)
+
 </div>
 
 ## About me:rocket:
