@@ -59,6 +59,8 @@ const hi there, welcome = {
   Technologies: {
     Frontend:
       html, css: ["web development"]
+    Backend:
+      python: ["discord bot"]
   },
 };
 ```
